@@ -47,7 +47,6 @@ public class Main {
 
         //Collector
         //System.out.println(collectAllSquareNumberListFunctional(list));
-        tyyfhghggmc,nb,cnc,iheakhgaslkdgejaesldzeaapploiuytrewqas
     }
 
     private static void printAllCoursesFunctional(List<String> courses) {
